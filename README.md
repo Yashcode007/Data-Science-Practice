@@ -1,6 +1,8 @@
 This is the roadmap how I practised by Data Science skills and furnished them efficiently  
 Introduction To Data Science
+
 Introduction to Python
+
 Conditions and Loops
 Patterns
 More on Loops
